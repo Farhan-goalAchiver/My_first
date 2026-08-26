@@ -1,0 +1,10 @@
+import java.util.*;
+public class main{
+  public static void main(String[]args){
+   Scanner sc = new Scanner(System.in);
+  System.out.println("enter your age");
+  int a = sc.nextInt();
+System.out.println("your age is :"+a);
+}
+}
+
